@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Basla.unity
+    guid: 3344dd8558a08704d8f1507589aa20f7
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/sahne3.unity
+    guid: 3de5162a8fe06f7499106a9d9c7552ec
   m_configObjects: {}
