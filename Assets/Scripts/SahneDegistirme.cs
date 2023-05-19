@@ -15,5 +15,9 @@ public class SahneDegistirme : MonoBehaviour
     {
         SceneManager.LoadScene("sahne3");
     }
+    public void Sahne4()
+    {
+        SceneManager.LoadScene("sahne4");
+    }
     
 }

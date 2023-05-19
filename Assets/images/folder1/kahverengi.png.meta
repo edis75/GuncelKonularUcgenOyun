@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 51ab88e75ffda6d448ebda6ec9789285
+guid: e78cbcdf93e8c784da3c305cfd5be01d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -102,7 +102,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -120,10 +120,10 @@ TextureImporter:
       name: kahverengi_0
       rect:
         serializedVersion: 2
-        x: 128
-        y: 365.25
-        width: 128.25
-        height: 121.75
+        x: 171
+        y: 324.6667
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334639ec2ff432f4487a419342b9df7a
-      internalID: -1178055483
+      spriteID: 98e8fb184f3f6114191b111b1a08c68a
+      internalID: 1471159629
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: kahverengi_1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 365.25
-        width: 128.25
-        height: 121.75
+        x: 342
+        y: 324.6667
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9ebf1d58a3e362408be66d4cc08bab6
-      internalID: -1199641419
+      spriteID: ea54556565571d94cb4d375373dfc073
+      internalID: -1985411269
       vertices: []
       indices: 
       edges: []
@@ -163,9 +163,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 244.25
-        width: 128.25
-        height: 121.75
+        y: 162.66667
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436f689bae2ceb44b8f123066cb1c8b9
-      internalID: 1514392351
+      spriteID: 745e541305103384d8b1262f6e31a13f
+      internalID: 2112797244
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: kahverengi_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 244.25
-        width: 128.25
-        height: 121.75
+        x: 171
+        y: 162.66667
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 206be5b500f6b1d40bd3a7f5692d654c
-      internalID: -110913556
+      spriteID: 9bdc38ead233d8d43a1cf424d8d83097
+      internalID: 1072577282
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: kahverengi_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 244.25
-        width: 128.25
-        height: 121.75
+        x: 342
+        y: 162.66667
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ed70116c675f0e48935f282524695c5
-      internalID: -1657692548
+      spriteID: 6a2fb485de510ee419c358a56970d063
+      internalID: -1342675800
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: kahverengi_5
       rect:
         serializedVersion: 2
-        x: 384
-        y: 244.25
-        width: 128.25
-        height: 121.75
+        x: 0
+        y: 0.66667175
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aac111e8f4f892d458fa95637fdfdc8b
-      internalID: -764449941
+      spriteID: 99c37f09695d0d94f8af02f004865c14
+      internalID: -133125608
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: kahverengi_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 123.25
-        width: 128.25
-        height: 121.75
+        x: 171
+        y: 0.66667175
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5399d6cc2f15aee4cade2fa8cbd59312
-      internalID: 475400819
+      spriteID: 1d321e1da12d8e24f8f26e221a028fbc
+      internalID: 1976173285
       vertices: []
       indices: 
       edges: []
@@ -267,10 +267,10 @@ TextureImporter:
       name: kahverengi_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 123.25
-        width: 128.25
-        height: 121.75
+        x: 342
+        y: 0.66667175
+        width: 171
+        height: 162.33333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,134 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea0f9200c59d9994286282d9365bf670
-      internalID: 953948131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 123.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c544dd22801a96d4ebe7c18beac34ac4
-      internalID: -1269934772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_9
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 123.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dee5e9463c398e4aa7ffeb66aaede2b
-      internalID: 473189627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecd6f41c0e94aeb43aa212f66be16acb
-      internalID: 1958326063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_11
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 2.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 873b107038bef224aa9b8e41d51982aa
-      internalID: 1519291308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_12
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 2.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47ecd8e6f807aba448bacde7ba472a6d
-      internalID: -1881586108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kahverengi_13
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 2.25
-        width: 128.25
-        height: 121.75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bcf8ba828c3b5947b25d410427a79d6
-      internalID: -907483017
+      spriteID: ec6009d1084c3ab449fe141b7d609bc2
+      internalID: 1490462005
       vertices: []
       indices: 
       edges: []
@@ -421,20 +295,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      kahverengi_0: -1178055483
-      kahverengi_1: -1199641419
-      kahverengi_10: 1958326063
-      kahverengi_11: 1519291308
-      kahverengi_12: -1881586108
-      kahverengi_13: -907483017
-      kahverengi_2: 1514392351
-      kahverengi_3: -110913556
-      kahverengi_4: -1657692548
-      kahverengi_5: -764449941
-      kahverengi_6: 475400819
-      kahverengi_7: 953948131
-      kahverengi_8: -1269934772
-      kahverengi_9: 473189627
+      kahverengi_0: 1471159629
+      kahverengi_1: -1985411269
+      kahverengi_2: 2112797244
+      kahverengi_3: 1072577282
+      kahverengi_4: -1342675800
+      kahverengi_5: -133125608
+      kahverengi_6: 1976173285
+      kahverengi_7: 1490462005
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

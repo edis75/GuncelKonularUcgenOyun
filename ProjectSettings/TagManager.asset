@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - kutu
+  - kutu_mor
+  - kutu_kahverengi
+  - kutu_pembe
+  - kutu_mavi
+  - kutu_sari
+  - kutu_yesil
   layers:
   - Default
   - TransparentFX
